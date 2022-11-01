@@ -1,0 +1,4 @@
+[gpg]
+	program = bin/gpg.sh
+[receive]
+	advertisePushOptions = true
