@@ -4,6 +4,6 @@
 	bare = false
 	logallrefupdates = true
 [gpg]
-	program = bin/gpg.sh
+	program = .git/bin/gpg.sh
 [receive]
 	advertisePushOptions = true
